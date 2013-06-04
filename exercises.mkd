@@ -1,0 +1,12 @@
+# Controllers And Views
+
+## Create the missing views for the Whatnot_Controller
+
+* need views to go along with the showAction and browseAction
+* pass in some fake data to display by implementing the actions
+
+## Play with different default models
+
+* The example steals data from Items. Try it with Collections and Tags and see what happens.
+** fix things that break
+** look at the Collections and Tags models to see what other data you can display
